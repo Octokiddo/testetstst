@@ -1,4 +1,4 @@
-var draw = function; {
-  text (255, 255, 255, 255, 255);
+const draw = functiont() {
+  text ("HOI", 255, 255,);
 };
-draw;
+draw();
