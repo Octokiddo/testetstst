@@ -1,4 +1,4 @@
 var draw = function; {
-  text (255, 255);
+  text (255, 255, 255, 255, 255);
 };
 draw;
